@@ -1,6 +1,6 @@
 ### Hi there 
 - 👋 Hi! I’m Han Zhou @hanzhou032, a PhD student in NLP at [University of Cambridge](https://www.cam.ac.uk/).
-- 🤔 I’m interested in [PEFT](https://github.com/huggingface/peft), prompt optimisation, [dialogues](https://arxiv.org/abs/2204.05895) and multi-lingual learning.
+- 🤔 I’m interested in [PEFT](https://github.com/huggingface/peft), prompt optimisation, [dialogues](https://arxiv.org/abs/2204.05895), and multi-lingual learning.
 - 📫 Feel free to reach me: [personal website](https://hzhou.top/) & [Google scholar page](https://scholar.google.com/citations?user=7pXfJVgAAAAJ&hl=en)
 
 <!--
